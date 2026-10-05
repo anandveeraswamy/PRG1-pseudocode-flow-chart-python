@@ -10,7 +10,7 @@ Trace to check: distance_miles = 4, waiting_minutes = 10 gives a fare of 10.80
  
 BASE_CHARGE = 3.50
 RATE_PER_MILE = 1.20
-RATE_PER_MINUTE_WAITING = 0.25
+RATE_PER_MINUTE_WAITING = 0.50
  
 distance_miles = float(input("Distance travelled in miles: "))
 waiting_minutes = float(input("Waiting time in minutes: "))
